@@ -7,21 +7,20 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  Background-Color: #333;
 }
 li {
-  display: inline;
+  float: left;
 }
 li a {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
-  padding: 14px 16px;
-  text decoration: none;
+  padding: 8px;
+  background-color: #dddddd
 }
 li a:hover {
   
-  background-color: #111;
+  background-color: #ddddde;
 }
 </style>
   
