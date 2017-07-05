@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+<style>
 ul {
   List-style-type: none;
   margin: 0;
@@ -22,6 +23,7 @@ li a:hover {
   
   background-color: #111;
 }
+</style>
   
   
   
