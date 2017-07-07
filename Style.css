@@ -33,8 +33,9 @@ li a:hover {
   </head>
   <body>
 background-color: lightcyan;
-h2 {
+<h2> {
   background-color: skyblue;
+  alignment: center;
 }
   
   </body>
