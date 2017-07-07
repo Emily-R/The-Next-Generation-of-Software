@@ -32,6 +32,10 @@ li a:hover {
   
   </head>
   <body>
+Background-Color: lightcyan;
+h2 {
+  background-color: skyblue;
+}
   
   </body>
 </html>
