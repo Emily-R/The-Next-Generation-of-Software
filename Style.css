@@ -20,10 +20,10 @@ li a:hover {
   background-color: #ddddde;
 }
     
-
-  
+body {
 background-color: lightcyan;
-<h2> {
+}
+h2 {
   background-color: skyblue;
   alignment: center;
 }
